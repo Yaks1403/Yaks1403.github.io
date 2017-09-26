@@ -1,0 +1,141 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	
+}
+p {
+	z-index: 10000;
+	font-size: 20px;
+	text-align: Top;
+	position: absolute;
+	width: 20%;
+	padding-top: 100px;
+{font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font color: #F9F6F6;}
+
+}
+.slider{
+	overflow: hidden;
+	height: 350px;
+		
+}
+.slider figure div{
+	width: 20%;
+	float: left;
+
+}
+.slider figure  img{
+	width: 100%;
+	float: left;
+}
+.slider figure{
+	position: absolute;
+	width: 250%;
+	margin: 0;
+	left: 0;
+	animation: 20s slidy infinite;
+}
+@keyframes slidy{
+	0%{
+		Left: 0%;
+	}
+	10% {
+		left: 0%;
+	}
+	14% {
+		left: -100%;
+	}
+	24% {left: -100%;
+	}
+	28% {
+		left: -200%;
+	}
+	38% {
+		left: -200%;
+	}
+	40% {
+		left: -300%;
+
+	}
+	50% {
+		left: -300%;
+	}
+	52% {
+		left: -400%;
+	}
+	62% {
+		left: -400%;
+	}
+	66% {
+		left: -300%;
+	}
+	76% {
+		left: -300%;
+	}
+	80% {
+		left: -200%;}
+	90% {
+		left: -200%;
+	}
+	94% {
+		left: 0%;
+	}
+}
+h1 {
+	color: #FFFFFF;
+	font-size: 60px;
+font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";}
+
+h2 {
+	color: #F9F2F2;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	
+}
+h3 {
+	color: #F9F2F2;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	
+}
+
+h1 {
+	
+		
+}
+body {
+	background-color:#68CF00;}
+
+p.lowercase {font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font color: #F9F6F6;}
+body {
+	;
+	
+}
+body {
+	color: #F9F7F7;
+		
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"	
+		Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+		Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+}
+
+body {
+	background-image: image()
+ }
+
+
+img {
+	width: 1440px;
+}
+
+
+
+
+
+
+
+

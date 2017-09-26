@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+h1 {color: white;
+
+}
+h2 {
+	color: white;
+}
+h5 {
+	color: white;
+}
+.background {
+	background-image: url(images/images (1) copy.jpeg);
+	background-size: cover;
+}
+
+/*Tablet View*/
+
+
+
+
+
+/*Mobile View*/
